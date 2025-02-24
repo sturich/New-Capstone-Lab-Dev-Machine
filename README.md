@@ -7,7 +7,10 @@ This repository provides a comprehensive guide to the Dev Machine which is a Cap
 ### Features:
 - NMAP (Network Mapper)
 NMAP is used for network scanning, identifying live hosts, and enumerating open ports/services on the target machine. Expect to perform full-service enumeration and version detection to discover potential vulnerabilities.
-
+- Boltcms (Content Management System (CMS))
+BoltCMS is a lightweight, user-friendly content management system (CMS) designed to allow users to build and manage websites easily without requiring extensive technical knowledge. It is especially suited for developers, designers, and users looking for a straightforward CMS that offers flexibility, speed, and simplicity, without the complexity or bloat of larger, more traditional CMS platforms like WordPress or Joomla.  
+- ffuf (open source web fuzzing tool)
+intended for discovering elements and content within web applications, or web servers. What do we mean by this? Often when you visit a website you will be presented with the content that the owner of the website wants to serve you with, this could be hosted at a page such as index.php. Within security, often the challenges in a website that need to be corrected exist outside of that. For example, the owner of the website may have content hosted at admin.php, that you both want to know about, and test. FFUF is a tool for uncovering those items, for your purusal.
 
 ### Prerequisites:
 Before starting the Academy Machine challenge, it is recommended to have basic knowledge and hands-on experience with the following tools and concepts:
@@ -111,7 +114,7 @@ Now if were attacking this page we could find files, or there could be a setting
 
 So we want to enumerate this a bit further to see.
 
-So we are going to carry out a quick scan using fuff
+So we are going to carry out a quick scan using ffuf
 
 ![image](https://github.com/user-attachments/assets/680ee934-1486-4fac-bd7e-fef5951233e5)
 
