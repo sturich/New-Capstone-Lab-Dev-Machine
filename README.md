@@ -12,6 +12,10 @@ BoltCMS is a lightweight, user-friendly content management system (CMS) designed
 - ffuf (open source web fuzzing tool)
 intended for discovering elements and content within web applications, or web servers. What do we mean by this? Often when you visit a website you will be presented with the content that the owner of the website wants to serve you with, this could be hosted at a page such as index.php. Within security, often the challenges in a website that need to be corrected exist outside of that. For example, the owner of the website may have content hosted at admin.php, that you both want to know about, and test. FFUF is a tool for uncovering those items, for your purusal.
 - fcrackzip (Password Cracker)
+fcrackzip is a versatile tool for cracking password-protected zip files.
+- GTFOBins (Unix binaries)
+is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+The project collects legitimate functions of Unix binaries that can be abused to get the f**k break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks.
 
 ### Prerequisites:
 Before starting the Academy Machine challenge, it is recommended to have basic knowledge and hands-on experience with the following tools and concepts:
