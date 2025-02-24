@@ -1,4 +1,4 @@
-<h1>Academy Machine</h1>
+<h1>Dev Machine</h1>
 
 <h2>**IP Address provided: 10.0.2.8**</h2>
 
