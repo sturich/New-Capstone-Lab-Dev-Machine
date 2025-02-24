@@ -26,6 +26,7 @@ Before starting the Academy Machine challenge, it is recommended to have basic k
 <h2>Environments Used </h2>
 
 - <b>Linux</b>
+- <b>VirtualBox</b>
 
 <h2>Walk-through:</h2>
 
